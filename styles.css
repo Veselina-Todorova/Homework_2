@@ -1,0 +1,51 @@
+header{
+    height: auto px;
+    width: 100%;
+    background-color:cornflowerblue;
+}
+
+body{
+    height: 100% ;
+    width: 100%;
+    
+}
+
+.logo{
+   
+}
+
+table{
+    
+}
+tr, th {
+    
+}
+
+ul{
+}
+
+li{
+    
+}
+
+.profile{
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    
+    
+}
+.projects{
+    margin-left: 200px;
+    margin-top: -200px;
+}
+
+.activity{
+    margin-top: -390px;
+    height: 600px;
+    width: 200px;
+    margin-left: 620px;
+}
+.activity1{
+    style="list-style-image: url(you.png)
+}
